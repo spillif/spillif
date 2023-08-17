@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @spillif
 - 👀 I’m working at APL Logistics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Analytics project
-- 📫 How to reach me ...
+- 🌱 Already completed Google Data Analytics and IBM Data Science
+- 💞️ I’m looking to collaborate on a Data Analytics project
+- 📫 How to reach me: fillipsbui@gmail.com/ fillips_phuc_bui@apllogistics.com
 
 <!---
 spillif/spillif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
