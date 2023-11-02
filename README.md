@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spillif
 - 👀 I’m working at APL Logistics
-- 🌱 Already completed Google Data Analytics and IBM Data Science
+- 🌱 Already completed Google Data Analytics, IBM Data Science, and IBM Data Analyst
 - 💞️ I’m looking to collaborate on a Data Analytics project
 - 📫 How to reach me: fillipsbui@gmail.com/ fillips_phuc_bui@apllogistics.com
 
