@@ -3,7 +3,7 @@
 - 🌱 Already completed Google Data Analytics, IBM Data Science, and IBM Data Analyst
 - 💞️ I’m looking to collaborate on a Data Analytics project
 - 🪪 Details: [Here](https://github.com/spillif/Introduction#introduction)
-- 📫 How to reach me: fillipsbui@gmail.com/ fillips_phuc_bui@apllogistics.com
+- 📫 How to reach me: fillipsbui@gmail.com/ phuc.bui@svpworldwide.com
 
 <!---
 spillif/spillif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
