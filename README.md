@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @spillif
-- 💼 I’m working at SVP Worldwide
+- 💼 Currently working at SVP Worldwide
 - 🌱 Already completed Google Data Analytics, IBM Data Science, and IBM Data Analyst
 - 💞️ I’m looking to collaborate on a Data Analytics project
 - 🪪 Details: [Here](https://github.com/spillif/Introduction#introduction)
